@@ -10,4 +10,4 @@ made of home nodes.
 C++ · ESP32 · Node.js · TypeScript · Flutter · PostgreSQL · LoRa
 
 ### Elsewhere
-[sensmos.com](https://sensmos.com) · [X @wGaluszewski](https://x.com/wGaluszewski)
+[sensmos.com](https://sensmos.com) · [X @WGaluszewski](https://x.com/WGaluszewski) · [Sensmos Discord](https://discord.gg/ukea386Kqx)
